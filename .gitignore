@@ -1,0 +1,14 @@
+# Dados confidenciais
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Configurações locais
+.vscode/
+
+# Arquivos temporários
+*.log
